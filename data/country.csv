@@ -1,0 +1,226 @@
+id,name,slug,region,continent
+ad,Andorra,andorra,Europe,Europe
+ae,United Arab Emirates,united-arab-emirates,MENA,Asia
+af,Afghanistan,afghanistan,Asia,Asia
+ag,Antigua and Barbuda,antigua-and-barbuda,Americas,Americas
+ai,Anguilla,anguilla,Americas,Americas
+al,Albania,albania,Europe,Europe
+am,Armenia,armenia,Europe,Europe
+ao,Angola,angola,Sub Saharan Africa,Africa
+ar,Argentina,argentina,Americas,Americas
+as,American Samoa,american-samoa,Oceania,Oceania
+at,Austria,austria,Europe,Europe
+au,Australia,australia,Oceania,Oceania
+aw,Aruba,aruba,Americas,Americas
+ax,Aland Islands,aland-islands,Europe,Europe
+az,Azerbaijan,azerbaijan,Asia,Asia
+ba,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,Europe
+bb,Barbados,barbados,Americas,Americas
+bd,Bangladesh,bangladesh,Asia,Asia
+be,Belgium,belgium,Europe,Europe
+bf,Burkina Faso,burkina-faso,Sub Saharan Africa,Africa
+bg,Bulgaria,bulgaria,Europe,Europe
+bh,Bahrain,bahrain,MENA,Asia
+bi,Burundi,burundi,Sub Saharan Africa,Africa
+bj,Benin,benin,Sub Saharan Africa,Africa
+bl,Saint Barthelemy,saint-barthelemy,Americas,Americas
+bm,Bermuda,bermuda,Caribbean,Americas
+bn,Brunei Darussalam,brunei,Asia,Asia
+bo,Bolivia,bolivia,Americas,Americas
+bq,"Bonaire, Sint Eustatius and Saba",bes-islands,Americas,Americas
+br,Brazil,brazil,Americas,Americas
+bs,Bahamas,bahamas,Americas,Americas
+bt,Bhutan,bhutan,Asia,Asia
+bw,Botswana,botswana,Sub Saharan Africa,Africa
+by,Belarus,belarus,Europe,Europe
+bz,Belize,belize,Americas,Americas
+ca,Canada,canada,Americas,Americas
+cd,Democratic Republic of Congo,drc,Sub Saharan Africa,Africa
+cg,Congo,congo,Sub Saharan Africa,Africa
+ch,Switzerland,switzerland,Europe,Europe
+ci,Cote d'Ivoire,cote-divoire,Sub Saharan Africa,Africa
+ck,Cook Islands,cook-islands,Oceania,Oceania
+cl,Chile,chile,Americas,Americas
+cm,Cameroon,cameroon,Sub Saharan Africa,Africa
+cn,China,china,Asia,Asia
+co,Colombia,colombia,Americas,Americas
+cr,Costa Rica,costa-rica,Americas,Americas
+cu,Cuba,cuba,Americas,Americas
+cv,Cape Verde,cabo-verde,Sub Saharan Africa,Africa
+cw,Curacao,curacao,Americas,Americas
+cy,Cyprus,cyprus,Europe,Europe
+cz,Czech Republic,czech-republic,Europe,Europe
+de,Germany,germany,Europe,Europe
+dj,Djibouti,djibouti,MENA,Africa
+dk,Denmark,denmark,Europe,Europe
+dm,Dominica,dominica,Caribbean,Americas
+do,Dominican Republic,dominican-republic,Caribbean,Americas
+dz,Algeria,algeria,MENA,Africa
+ec,Ecuador,ecuador,Americas,Americas
+ee,Estonia,estonia,Europe,Europe
+eg,Egypt,egypt,MENA,Africa
+er,Eritrea,eritrea,Sub Saharan Africa,Africa
+es,Spain,spain,Europe,Europe
+et,Ethiopia,ethiopia,Sub Saharan Africa,Africa
+fi,Finland,finland,Europe,Europe
+fj,Fiji,fiji,Oceania,Oceania
+fm,Micronesia,micronesia,Oceania,Oceania
+fo,Faroe Islands,faroe-islands,Europe,Europe
+fr,France,france,Europe,Europe
+ga,Gabon,gabon,Sub Saharan Africa,Africa
+gb,United Kingdom,united-kingdom,Europe,Europe
+gd,Grenada,grenada,Caribbean,Americas
+ge,Georgia,georgia,Asia,Asia
+gf,French Guiana,french-guiana,Americas,Americas
+gg,Guernsey,guernsey,Europe,Europe
+gh,Ghana,ghana,Sub Saharan Africa,Africa
+gi,Gibraltar,gibraltar,Europe,Europe
+gl,Greenland,greenland,Americas,Americas
+gm,Gambia,gambia,Sub Saharan Africa,Africa
+gn,Guinea,guinea,Sub Saharan Africa,Africa
+gp,Guadeloupe,guadeloupe,Americas,Americas
+gq,Equatorial Guinea,equatorial-guinea,Sub Saharan Africa,Africa
+gr,Greece,greece,Europe,Europe
+gt,Guatemala,guatemala,Americas,Americas
+gu,Guam,guam,Oceania,Oceania
+gy,Guyana,guyana,Americas,Americas
+hk,Hong Kong,hong-kong,Asia,Asia
+hn,Honduras,honduras,Americas,Americas
+hr,Croatia,croatia,Europe,Europe
+ht,Haiti,haiti,Caribbean,Americas
+hu,Hungary,hungary,Europe,Europe
+id,Indonesia,indonesia,Asia,Asia
+ie,Ireland,ireland,Europe,Europe
+il,Israel,israel,Europe,Asia
+im,Isle of Man,isle-of-man,Europe,Europe
+in,India,india,Asia,Asia
+iq,Iraq,iraq,MENA,Asia
+ir,Iran,iran,MENA,Asia
+is,Iceland,iceland,Europe,Europe
+it,Italy,italy,Europe,Europe
+je,Jersey,jersey,Europe,Europe
+jm,Jamaica,jamaica,Caribbean,Americas
+jo,Jordan,jordan,MENA,Asia
+jp,Japan,japan,Asia,Asia
+ke,Kenya,kenya,Sub Saharan Africa,Africa
+kg,Kyrgyzstan,kyrgyzstan,Asia,Asia
+kh,Cambodia,cambodia,Asia,Asia
+ki,Kiribati,kiribati,Oceania,Oceania
+km,Comoros,comoros,Sub Saharan Africa,Africa
+kn,Saint Kitts and Nevis,saint-kitts-and-nevis,Caribbean,Americas
+kp,North Korea,north-korea,Asia,Asia
+kr,South Korea,south-korea,Asia,Asia
+kw,Kuwait,kuwait,MENA,Asia
+ky,Cayman Islands,cayman-islands,Americas,Americas
+kz,Kazakhstan,kazakhstan,Asia,Asia
+la,Laos,laos,Asia,Asia
+lb,Lebanon,lebanon,MENA,Asia
+lc,Saint Lucia,saint-lucia,Caribbean,Americas
+li,Liechtenstein,liechtenstein,Europe,Europe
+lk,Sri Lanka,sri-lanka,Asia,Asia
+lr,Liberia,liberia,Sub Saharan Africa,Africa
+ls,Lesotho,lesotho,Sub Saharan Africa,Africa
+lt,Lithuania,lithuania,Europe,Europe
+lu,Luxembourg,luxembourg,Europe,Europe
+lv,Latvia,latvia,Europe,Europe
+ly,Libya,libya,MENA,Africa
+ma,Morocco,morocco,MENA,Africa
+mc,Monaco,monaco,Europe,Europe
+md,Moldova,moldova,Europe,Europe
+me,Montenegro,montenegro,Europe,Europe
+mf,French Saint Martin,saint-martin,Americas,Americas
+mg,Madagascar,madagascar,Sub Saharan Africa,Africa
+mh,Marshall Islands,marshall-islands,Oceania,Oceania
+mk,FYR Macedonia,macedonia,Europe,Europe
+ml,Mali,mali,Sub Saharan Africa,Africa
+mm,Myanmar,myanmar,Asia,Asia
+mn,Mongolia,mongolia,Asia,Asia
+mo,Macao,macao,Asia,Asia
+mp,Northern Mariana Islands,mariana-islands,Oceania,Oceania
+mq,Martinique,martinique,Americas,Americas
+mr,Mauritania,mauritania,MENA,Africa
+ms,Montserrat,montserrat,Americas,Americas
+mt,Malta,malta,Europe,Europe
+mu,Mauritius,mauritius,Sub Saharan Africa,Africa
+mv,Maldives,maldives,Asia,Asia
+mw,Malawi,malawi,Sub Saharan Africa,Africa
+mx,Mexico,mexico,Americas,Americas
+my,Malaysia,malaysia,Asia,Asia
+mz,Mozambique,mozambique,Sub Saharan Africa,Africa
+na,Namibia,namibia,Sub Saharan Africa,Africa
+nc,New Caledonia,new-caledonia,Oceania,Oceania
+ne,Niger,niger,Sub Saharan Africa,Africa
+ng,Nigeria,nigeria,Sub Saharan Africa,Africa
+ni,Nicaragua,nicaragua,Americas,Americas
+nl,Netherlands,netherlands,Europe,Europe
+no,Norway,norway,Europe,Europe
+np,Nepal,nepal,Asia,Asia
+nz,New Zealand,new-zealand,Oceania,Oceania
+om,Oman,oman,MENA,Asia
+pa,Panama,panama,Americas,Americas
+pe,Peru,peru,Americas,Americas
+pf,French Polynesia,french-polynesia,Oceania,Oceania
+pg,Papua New Guinea,papua-new-guinea,Oceania,Oceania
+ph,Philippines,philippines,Asia,Asia
+pk,Pakistan,pakistan,Asia,Asia
+pl,Poland,poland,Europe,Europe
+pm,Saint Pierre and Miquelon,saint-pierre,Americas,Americas
+pr,Puerto Rico,puerto-rico,Americas,Americas
+ps,Palestine,palestine,MENA,Asia
+pt,Portugal,portugal,Europe,Europe
+py,Paraguay,paraguay,Americas,Americas
+qa,Qatar,qatar,MENA,Asia
+re,Reunion,reunion,Sub Saharan Africa,Africa
+ro,Romania,romania,Europe,Europe
+rs,Serbia,serbia,Europe,Europe
+ru,Russian Federation,russia,Europe,Europe
+rw,Rwanda,rwanda,Sub Saharan Africa,Africa
+sa,Saudi Arabia,saudi-arabia,MENA,Asia
+sb,Solomon Islands,solomon-islands,Oceania,Oceania
+sc,Seychelles,seychelles,Sub Saharan Africa,Africa
+sd,Sudan,sudan,MENA,Africa
+se,Sweden,sweden,Europe,Europe
+sg,Singapore,singapore,Asia,Asia
+si,Slovenia,slovenia,Europe,Europe
+sk,Slovakia,slovakia,Europe,Europe
+sl,Sierra Leone,sierra-leone,Sub Saharan Africa,Africa
+sm,San Marino,san-marino,Europe,Europe
+sn,Senegal,senegal,Sub Saharan Africa,Africa
+so,Somalia,somalia,MENA,Africa
+sr,Suriname,suriname,Americas,Americas
+ss,South Sudan,south-sudan,MENA,Africa
+st,Sao Tome and Principe,sao-tome-and-principe,Sub Saharan Africa,Africa
+sv,El Salvador,el-salvador,Americas,Americas
+sx,Dutch Sint Maarten,sint-maarten,Americas,Americas
+sy,Syria,syria,MENA,Asia
+sz,Swaziland,swaziland,Sub Saharan Africa,Africa
+tc,Turks and Caicos Islands,turks-and-caicos-islands,Caribbean,Americas
+td,Chad,chad,MENA,Africa
+tg,Togo,togo,Sub Saharan Africa,Africa
+th,Thailand,thailand,Asia,Asia
+tj,Tajikistan,tajikistan,Asia,Asia
+tl,Timor-Leste,timor-Leste,Asia,Asia
+tm,Turkmenistan,turkmenistan,Asia,Asia
+tn,Tunisia,tunisia,MENA,Africa
+to,Tonga,tonga,Oceania,Oceania
+tr,Turkey,turkey,Asia,Asia
+tt,Trinidad and Tobago,trinidad-and-tobago,Caribbean,Americas
+tw,Taiwan,taiwan,Asia,Asia
+tz,Tanzania,tanzania,Sub Saharan Africa,Africa
+ua,Ukraine,ukraine,Europe,Europe
+ug,Uganda,uganda,Sub Saharan Africa,Africa
+us,United States,united-states,Americas,Americas
+uy,Uruguay,uruguay,Americas,Americas
+uz,Uzbekistan,uzbekistan,Asia,Asia
+vc,St. Vincent & the Grenadines,st.-Vincent-and-the-Grenadines,Caribbean,
+ve,Venezuela,venezuela,Americas,Americas
+vg,"Virgin Islands, British",virgin-islands-british,Caribbean,Americas
+vi,"Virgin Islands, U.S.",virgin-islands-us,Caribbean,Americas
+vn,Viet Nam,vietnam,Asia,Asia
+vu,Vanuatu,vanuatu,Oceania,Oceania
+ws,Samoa,samoa,Oceania,Oceania
+xk,Kosovo,kosovo,Europe,Europe
+ye,Yemen,yemen,MENA,Asia
+za,South Africa,south-africa,Sub Saharan Africa,Africa
+zm,Zambia,zambia,Sub Saharan Africa,Africa
+zw,Zimbabwe,zimbabwe,Sub Saharan Africa,Africa
