@@ -7,6 +7,7 @@ AI,Anguilla,anguilla,Americas,Americas
 AL,Albania,albania,Europe,Europe
 AM,Armenia,armenia,Europe,Europe
 AO,Angola,angola,Sub Saharan Africa,Africa
+AQ,Antarctica,antarctica,Antarctica,Antarctica
 AR,Argentina,argentina,Americas,Americas
 AS,American Samoa,american-samoa,Oceania,Oceania
 AT,Austria,austria,Europe,Europe
@@ -34,8 +35,10 @@ BT,Bhutan,bhutan,Asia,Asia
 BW,Botswana,botswana,Sub Saharan Africa,Africa
 BY,Belarus,belarus,Europe,Europe
 BZ,Belize,belize,Americas,Americas
+C,Unknown,unknown,,
 CA,Canada,canada,Americas,Americas
 CD,Democratic Republic of Congo,drc,Sub Saharan Africa,Africa
+CF,Central African Republic,central-african-republic,,
 CG,Congo,congo,Sub Saharan Africa,Africa
 CH,Switzerland,switzerland,Europe,Europe
 CI,Cote d'Ivoire,cote-divoire,Sub Saharan Africa,Africa
@@ -62,8 +65,10 @@ EG,Egypt,egypt,MENA,Africa
 ER,Eritrea,eritrea,Sub Saharan Africa,Africa
 ES,Spain,spain,Europe,Europe
 ET,Ethiopia,ethiopia,Sub Saharan Africa,Africa
+EU,Europe,europe,,
 FI,Finland,finland,Europe,Europe
 FJ,Fiji,fiji,Oceania,Oceania
+FK,"Falkland Islands (Malvinas)",falkland-islands,Americas,Amricas
 FM,Micronesia,micronesia,Oceania,Oceania
 FO,Faroe Islands,faroe-islands,Europe,Europe
 FR,France,france,Europe,Europe
@@ -81,8 +86,10 @@ GN,Guinea,guinea,Sub Saharan Africa,Africa
 GP,Guadeloupe,guadeloupe,Americas,Americas
 GQ,Equatorial Guinea,equatorial-guinea,Sub Saharan Africa,Africa
 GR,Greece,greece,Europe,Europe
+GS,South Georgia and South Sandwich Islands,south-georgia-and-south-sandwich-islands,Americas,Americas
 GT,Guatemala,guatemala,Americas,Americas
 GU,Guam,guam,Oceania,Oceania
+GW,Guinea-Bissau,guinea-bissau,Africa,Africa
 GY,Guyana,guyana,Americas,Americas
 HK,Hong Kong,hong-kong,Asia,Asia
 HN,Honduras,honduras,Americas,Americas
@@ -94,6 +101,7 @@ IE,Ireland,ireland,Europe,Europe
 IL,Israel,israel,Europe,Asia
 IM,Isle of Man,isle-of-man,Europe,Europe
 IN,India,india,Asia,Asia
+IO,British Indian Ocean Territory,british-indian-ocean-territory,Asia,Asia
 IQ,Iraq,iraq,MENA,Asia
 IR,Iran,iran,MENA,Asia
 IS,Iceland,iceland,Europe,Europe
@@ -150,11 +158,14 @@ MZ,Mozambique,mozambique,Sub Saharan Africa,Africa
 NA,Namibia,namibia,Sub Saharan Africa,Africa
 NC,New Caledonia,new-caledonia,Oceania,Oceania
 NE,Niger,niger,Sub Saharan Africa,Africa
+NF,Norfolk Island,norfolk-island,Oceania,Oceania
 NG,Nigeria,nigeria,Sub Saharan Africa,Africa
 NI,Nicaragua,nicaragua,Americas,Americas
 NL,Netherlands,netherlands,Europe,Europe
 NO,Norway,norway,Europe,Europe
 NP,Nepal,nepal,Asia,Asia
+NR,Nauru,nauru,Africa,Africa
+NU,Niue,niue,Oceania,Oceania
 NZ,New Zealand,new-zealand,Oceania,Oceania
 OM,Oman,oman,MENA,Asia
 PA,Panama,panama,Americas,Americas
@@ -168,6 +179,7 @@ PM,Saint Pierre and Miquelon,saint-pierre,Americas,Americas
 PR,Puerto Rico,puerto-rico,Americas,Americas
 PS,Palestine,palestine,MENA,Asia
 PT,Portugal,portugal,Europe,Europe
+PW,Palau,palau,Oceania,Oceania
 PY,Paraguay,paraguay,Americas,Americas
 QA,Qatar,qatar,MENA,Asia
 RE,Reunion,reunion,Sub Saharan Africa,Africa
@@ -199,28 +211,36 @@ TD,Chad,chad,MENA,Africa
 TG,Togo,togo,Sub Saharan Africa,Africa
 TH,Thailand,thailand,Asia,Asia
 TJ,Tajikistan,tajikistan,Asia,Asia
+TK,Tokelau,tokelau,Oceania,Oceania
 TL,Timor-Leste,timor-Leste,Asia,Asia
 TM,Turkmenistan,turkmenistan,Asia,Asia
 TN,Tunisia,tunisia,MENA,Africa
 TO,Tonga,tonga,Oceania,Oceania
 TR,Turkey,turkey,Asia,Asia
 TT,Trinidad and Tobago,trinidad-and-tobago,Caribbean,Americas
+TV,Tuvalu,tuvalu,Oceania,Oceania
 TW,Taiwan,taiwan,Asia,Asia
 TZ,Tanzania,tanzania,Sub Saharan Africa,Africa
 UA,Ukraine,ukraine,Europe,Europe
 UG,Uganda,uganda,Sub Saharan Africa,Africa
+UM,"U.S. Outlying Islands",us-outlying-slands,Americas,Americas
 US,United States,united-states,Americas,Americas
 UY,Uruguay,uruguay,Americas,Americas
 UZ,Uzbekistan,uzbekistan,Asia,Asia
+VA,Vatican City,vatican-city,Europe,Europe
 VC,St. Vincent & the Grenadines,st.-Vincent-and-the-Grenadines,Caribbean,
 VE,Venezuela,venezuela,Americas,Americas
 VG,"Virgin Islands, British",virgin-islands-british,Caribbean,Americas
 VI,"Virgin Islands, U.S.",virgin-islands-us,Caribbean,Americas
 VN,Viet Nam,vietnam,Asia,Asia
 VU,Vanuatu,vanuatu,Oceania,Oceania
+WF,Wallis and Futuna Islands,Wallis-and-futuna-islands,Territory of FR,Europe
 WS,Samoa,samoa,Oceania,Oceania
 XK,Kosovo,kosovo,Europe,Europe
+XY,Unknown XY,unknown-xy,,
 YE,Yemen,yemen,MENA,Asia
+YT,Mayotte,mayotte,Africa,Afcrica
 ZA,South Africa,south-africa,Sub Saharan Africa,Africa
 ZM,Zambia,zambia,Sub Saharan Africa,Africa
 ZW,Zimbabwe,zimbabwe,Sub Saharan Africa,Africa
+ZZ,-Reserved AS-,reserved-as,,
