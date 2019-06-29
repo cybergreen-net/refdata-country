@@ -1,247 +1,249 @@
 id,name,slug,region,continent
-AF,Afghanistan,afghanistan,Asia,Asia
-AX,Aland Islands,aland-islands,Europe,Europe
-AL,Albania,albania,Europe,Europe
-DZ,Algeria,algeria,MENA,Africa
-AS,American Samoa,american-samoa,Oceania,Oceania
 AD,Andorra,andorra,Europe,Europe
-AO,Angola,angola,Sub Saharan Africa,Africa
-AI,Anguilla,anguilla,Americas,Americas
-AQ,Antarctica,antarctica,Antarctica,Antarctica
+AE,United Arab Emirates,united-arab-emirates,MENA,Asia
+AF,Afghanistan,afghanistan,Asia,Asia
 AG,Antigua and Barbuda,antigua-and-barbuda,Americas,Americas
-AR,Argentina,argentina,Americas,Americas
+AI,Anguilla,anguilla,Americas,Americas
+AL,Albania,albania,Europe,Europe
 AM,Armenia,armenia,Europe,Europe
-AW,Aruba,aruba,Americas,Americas
-AU,Australia,australia,Oceania,Oceania
+AO,Angola,angola,Sub Saharan Africa,Africa
+AP,Asia Pacific,asiapacific,Asia Pacific,Asia
+AQ,Antarctica,antarctica,Antarctica,Antarctica
+AR,Argentina,argentina,Americas,Americas
+AS,American Samoa,american-samoa,Oceania,Oceania
 AT,Austria,austria,Europe,Europe
+AU,Australia,australia,Oceania,Oceania
+AW,Aruba,aruba,Americas,Americas
+AX,Aland Islands,aland-islands,Europe,Europe
 AZ,Azerbaijan,azerbaijan,Asia,Asia
-BS,Bahamas,bahamas,Americas,Americas
-BH,Bahrain,bahrain,MENA,Asia
-BD,Bangladesh,bangladesh,Asia,Asia
+BA,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,Europe
 BB,Barbados,barbados,Americas,Americas
-BY,Belarus,belarus,Europe,Europe
+BD,Bangladesh,bangladesh,Asia,Asia
 BE,Belgium,belgium,Europe,Europe
-BZ,Belize,belize,Americas,Americas
+BF,Burkina Faso,burkina-faso,Sub Saharan Africa,Africa
+BG,Bulgaria,bulgaria,Europe,Europe
+BH,Bahrain,bahrain,MENA,Asia
+BI,Burundi,burundi,Sub Saharan Africa,Africa
 BJ,Benin,benin,Sub Saharan Africa,Africa
+BL,Saint Barthelemy,saint-barthelemy,Americas,Americas
 BM,Bermuda,bermuda,Caribbean,Americas
-BT,Bhutan,bhutan,Asia,Asia
+BN,Brunei Darussalam,brunei,Asia,Asia
 BO,Bolivia,bolivia,Americas,Americas
 BQ,Bonaire, Sint Eustatius and Saba,Americas,Americas
-BA,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,Europe
-BW,Botswana,botswana,Sub Saharan Africa,Africa
 BR,Brazil,brazil,Americas,Americas
-IO,British Indian Ocean Territory,british-indian-ocean-territory,Asia,Asia
-BN,Brunei Darussalam,brunei,Asia,Asia
-BG,Bulgaria,bulgaria,Europe,Europe
-BF,Burkina Faso,burkina-faso,Sub Saharan Africa,Africa
-BI,Burundi,burundi,Sub Saharan Africa,Africa
-KH,Cambodia,cambodia,Asia,Asia
-CM,Cameroon,cameroon,Sub Saharan Africa,Africa
+BS,Bahamas,bahamas,Americas,Americas
+BT,Bhutan,bhutan,Asia,Asia
+BW,Botswana,botswana,Sub Saharan Africa,Africa
+BY,Belarus,belarus,Europe,Europe
+BZ,Belize,belize,Americas,Americas
+C,Unknown,unknown,,
 CA,Canada,canada,Americas,Americas
-CV,Cape Verde,cabo-verde,Sub Saharan Africa,Africa
-KY,Cayman Islands,cayman-islands,Americas,Americas
+CD,Democratic Republic of Congo,drc,Sub Saharan Africa,Africa
 CF,Central African Republic,central-african-republic,,
-TD,Chad,chad,MENA,Africa
+CG,Congo,congo,Sub Saharan Africa,Africa
+CH,Switzerland,switzerland,Europe,Europe
+CI,Cote d'Ivoire,cote-divoire,Sub Saharan Africa,Africa
+CK,Cook Islands,cook-islands,Oceania,Oceania
 CL,Chile,chile,Americas,Americas
+CM,Cameroon,cameroon,Sub Saharan Africa,Africa
 CN,China,china,Asia,Asia
 CO,Colombia,colombia,Americas,Americas
-KM,Comoros,comoros,Sub Saharan Africa,Africa
-CG,Congo,congo,Sub Saharan Africa,Africa
-CK,Cook Islands,cook-islands,Oceania,Oceania
 CR,Costa Rica,costa-rica,Americas,Americas
-CI,Cote d'Ivoire,cote-divoire,Sub Saharan Africa,Africa
-HR,Croatia,croatia,Europe,Europe
 CU,Cuba,cuba,Americas,Americas
+CV,Cape Verde,cabo-verde,Sub Saharan Africa,Africa
 CW,Curacao,curacao,Americas,Americas
 CY,Cyprus,cyprus,Europe,Europe
 CZ,Czech Republic,czech-republic,Europe,Europe
-CD,Democratic Republic of Congo,drc,Sub Saharan Africa,Africa
-DK,Denmark,denmark,Europe,Europe
+DE,Germany,germany,Europe,Europe
 DJ,Djibouti,djibouti,MENA,Africa
+DK,Denmark,denmark,Europe,Europe
 DM,Dominica,dominica,Caribbean,Americas
 DO,Dominican Republic,dominican-republic,Caribbean,Americas
-SX,Dutch Sint Maarten,sint-maarten,Americas,Americas
+DR,Dominican Republic,dominican-republic,Caribbean,Americas
+DZ,Algeria,algeria,MENA,Africa
 EC,Ecuador,ecuador,Americas,Americas
-EG,Egypt,egypt,MENA,Africa
-SV,El Salvador,el-salvador,Americas,Americas
-GQ,Equatorial Guinea,equatorial-guinea,Sub Saharan Africa,Africa
-ER,Eritrea,eritrea,Sub Saharan Africa,Africa
 EE,Estonia,estonia,Europe,Europe
+EG,Egypt,egypt,MENA,Africa
+ER,Eritrea,eritrea,Sub Saharan Africa,Africa
+ES,Spain,spain,Europe,Europe
 ET,Ethiopia,ethiopia,Sub Saharan Africa,Africa
 EU,Europe,europe,,
-FK,Falkland Islands (Malvinas),falkland-islands,Americas,Amricas
-FO,Faroe Islands,faroe-islands,Europe,Europe
-FJ,Fiji,fiji,Oceania,Oceania
 FI,Finland,finland,Europe,Europe
+FJ,Fiji,fiji,Oceania,Oceania
+FK,Falkland Islands (Malvinas),falkland-islands,Americas,Amricas
+FM,Micronesia,micronesia,Oceania,Oceania
+FO,Faroe Islands,faroe-islands,Europe,Europe
 FR,France,france,Europe,Europe
-GF,French Guiana,french-guiana,Americas,Americas
-PF,French Polynesia,french-polynesia,Oceania,Oceania
-MF,French Saint Martin,saint-martin,Americas,Americas
-MK,FYR Macedonia,macedonia,Europe,Europe
 GA,Gabon,gabon,Sub Saharan Africa,Africa
-GM,Gambia,gambia,Sub Saharan Africa,Africa
+GB,United Kingdom,united-kingdom,Europe,Europe
+GD,Grenada,grenada,Caribbean,Americas
 GE,Georgia,georgia,Asia,Asia
-DE,Germany,germany,Europe,Europe
+GF,French Guiana,french-guiana,Americas,Americas
+GG,Guernsey,guernsey,Europe,Europe
 GH,Ghana,ghana,Sub Saharan Africa,Africa
 GI,Gibraltar,gibraltar,Europe,Europe
-GR,Greece,greece,Europe,Europe
 GL,Greenland,greenland,Americas,Americas
-GD,Grenada,grenada,Caribbean,Americas
-GP,Guadeloupe,guadeloupe,Americas,Americas
-GU,Guam,guam,Oceania,Oceania
-GT,Guatemala,guatemala,Americas,Americas
-GG,Guernsey,guernsey,Europe,Europe
+GM,Gambia,gambia,Sub Saharan Africa,Africa
 GN,Guinea,guinea,Sub Saharan Africa,Africa
+GP,Guadeloupe,guadeloupe,Americas,Americas
+GQ,Equatorial Guinea,equatorial-guinea,Sub Saharan Africa,Africa
+GR,Greece,greece,Europe,Europe
+GS,South Georgia and South Sandwich Islands,south-georgia-and-south-sandwich-islands,Americas,Americas
+GT,Guatemala,guatemala,Americas,Americas
+GU,Guam,guam,Oceania,Oceania
 GW,Guinea-Bissau,guinea-bissau,Africa,Africa
 GY,Guyana,guyana,Americas,Americas
-HT,Haiti,haiti,Caribbean,Americas
-HN,Honduras,honduras,Americas,Americas
 HK,Hong Kong,hong-kong,Asia,Asia
+HN,Honduras,honduras,Americas,Americas
+HR,Croatia,croatia,Europe,Europe
+HT,Haiti,haiti,Caribbean,Americas
 HU,Hungary,hungary,Europe,Europe
-IS,Iceland,iceland,Europe,Europe
-IN,India,india,Asia,Asia
 ID,Indonesia,indonesia,Asia,Asia
-IR,Iran,iran,MENA,Asia
-IQ,Iraq,iraq,MENA,Asia
 IE,Ireland,ireland,Europe,Europe
-IM,Isle of Man,isle-of-man,Europe,Europe
 IL,Israel,israel,Europe,Asia
+IM,Isle of Man,isle-of-man,Europe,Europe
+IN,India,india,Asia,Asia
+IO,British Indian Ocean Territory,british-indian-ocean-territory,Asia,Asia
+IQ,Iraq,iraq,MENA,Asia
+IR,Iran,iran,MENA,Asia
+IS,Iceland,iceland,Europe,Europe
 IT,Italy,italy,Europe,Europe
-JM,Jamaica,jamaica,Caribbean,Americas
-JP,Japan,japan,Asia,Asia
 JE,Jersey,jersey,Europe,Europe
+JM,Jamaica,jamaica,Caribbean,Americas
 JO,Jordan,jordan,MENA,Asia
-KZ,Kazakhstan,kazakhstan,Asia,Asia
+JP,Japan,japan,Asia,Asia
 KE,Kenya,kenya,Sub Saharan Africa,Africa
-KI,Kiribati,kiribati,Oceania,Oceania
-XK,Kosovo,kosovo,Europe,Europe
-KW,Kuwait,kuwait,MENA,Asia
 KG,Kyrgyzstan,kyrgyzstan,Asia,Asia
+KH,Cambodia,cambodia,Asia,Asia
+KI,Kiribati,kiribati,Oceania,Oceania
+KM,Comoros,comoros,Sub Saharan Africa,Africa
+KN,Saint Kitts and Nevis,saint-kitts-and-nevis,Caribbean,Americas
+KP,North Korea,north-korea,Asia,Asia
+KR,South Korea,south-korea,Asia,Asia
+KW,Kuwait,kuwait,MENA,Asia
+KY,Cayman Islands,cayman-islands,Americas,Americas
+KZ,Kazakhstan,kazakhstan,Asia,Asia
 LA,Laos,laos,Asia,Asia
-LV,Latvia,latvia,Europe,Europe
 LB,Lebanon,lebanon,MENA,Asia
-LS,Lesotho,lesotho,Sub Saharan Africa,Africa
-LR,Liberia,liberia,Sub Saharan Africa,Africa
-LY,Libya,libya,MENA,Africa
+LC,Saint Lucia,saint-lucia,Caribbean,Americas
 LI,Liechtenstein,liechtenstein,Europe,Europe
+LK,Sri Lanka,sri-lanka,Asia,Asia
+LR,Liberia,liberia,Sub Saharan Africa,Africa
+LS,Lesotho,lesotho,Sub Saharan Africa,Africa
 LT,Lithuania,lithuania,Europe,Europe
 LU,Luxembourg,luxembourg,Europe,Europe
-MO,Macao,macao,Asia,Asia
+LV,Latvia,latvia,Europe,Europe
+LY,Libya,libya,MENA,Africa
+MA,Morocco,morocco,MENA,Africa
+MC,Monaco,monaco,Europe,Europe
+MD,Moldova,moldova,Europe,Europe
+ME,Montenegro,montenegro,Europe,Europe
+MF,French Saint Martin,saint-martin,Americas,Americas
 MG,Madagascar,madagascar,Sub Saharan Africa,Africa
-MW,Malawi,malawi,Sub Saharan Africa,Africa
-MY,Malaysia,malaysia,Asia,Asia
-MV,Maldives,maldives,Asia,Asia
-ML,Mali,mali,Sub Saharan Africa,Africa
-MT,Malta,malta,Europe,Europe
 MH,Marshall Islands,marshall-islands,Oceania,Oceania
+MK,FYR Macedonia,macedonia,Europe,Europe
+ML,Mali,mali,Sub Saharan Africa,Africa
+MM,Myanmar,myanmar,Asia,Asia
+MN,Mongolia,mongolia,Asia,Asia
+MO,Macao,macao,Asia,Asia
+MP,Northern Mariana Islands,mariana-islands,Oceania,Oceania
 MQ,Martinique,martinique,Americas,Americas
 MR,Mauritania,mauritania,MENA,Africa
-MU,Mauritius,mauritius,Sub Saharan Africa,Africa
-YT,Mayotte,mayotte,Africa,Afcrica
-MX,Mexico,mexico,Americas,Americas
-FM,Micronesia,micronesia,Oceania,Oceania
-MD,Moldova,moldova,Europe,Europe
-MC,Monaco,monaco,Europe,Europe
-MN,Mongolia,mongolia,Asia,Asia
-ME,Montenegro,montenegro,Europe,Europe
 MS,Montserrat,montserrat,Americas,Americas
-MA,Morocco,morocco,MENA,Africa
+MT,Malta,malta,Europe,Europe
+MU,Mauritius,mauritius,Sub Saharan Africa,Africa
+MV,Maldives,maldives,Asia,Asia
+MW,Malawi,malawi,Sub Saharan Africa,Africa
+MX,Mexico,mexico,Americas,Americas
+MY,Malaysia,malaysia,Asia,Asia
 MZ,Mozambique,mozambique,Sub Saharan Africa,Africa
-MM,Myanmar,myanmar,Asia,Asia
 NA,Namibia,namibia,Sub Saharan Africa,Africa
-NR,Nauru,nauru,Africa,Africa
-NP,Nepal,nepal,Asia,Asia
-NL,Netherlands,netherlands,Europe,Europe
 NC,New Caledonia,new-caledonia,Oceania,Oceania
-NZ,New Zealand,new-zealand,Oceania,Oceania
-NI,Nicaragua,nicaragua,Americas,Americas
 NE,Niger,niger,Sub Saharan Africa,Africa
-NG,Nigeria,nigeria,Sub Saharan Africa,Africa
-NU,Niue,niue,Oceania,Oceania
 NF,Norfolk Island,norfolk-island,Oceania,Oceania
-MP,Northern Mariana Islands,mariana-islands,Oceania,Oceania
-KP,North Korea,north-korea,Asia,Asia
+NG,Nigeria,nigeria,Sub Saharan Africa,Africa
+NI,Nicaragua,nicaragua,Americas,Americas
+NL,Netherlands,netherlands,Europe,Europe
 NO,Norway,norway,Europe,Europe
+NP,Nepal,nepal,Asia,Asia
+NR,Nauru,nauru,Africa,Africa
+NU,Niue,niue,Oceania,Oceania
+NZ,New Zealand,new-zealand,Oceania,Oceania
 OM,Oman,oman,MENA,Asia
-PK,Pakistan,pakistan,Asia,Asia
-PW,Palau,palau,Oceania,Oceania
-PS,Palestine,palestine,MENA,Asia
 PA,Panama,panama,Americas,Americas
-PG,Papua New Guinea,papua-new-guinea,Oceania,Oceania
-PY,Paraguay,paraguay,Americas,Americas
 PE,Peru,peru,Americas,Americas
+PF,French Polynesia,french-polynesia,Oceania,Oceania
+PG,Papua New Guinea,papua-new-guinea,Oceania,Oceania
 PH,Philippines,philippines,Asia,Asia
+PK,Pakistan,pakistan,Asia,Asia
 PL,Poland,poland,Europe,Europe
-PT,Portugal,portugal,Europe,Europe
+PM,Saint Pierre and Miquelon,saint-pierre,Americas,Americas
 PR,Puerto Rico,puerto-rico,Americas,Americas
+PS,Palestine,palestine,MENA,Asia
+PT,Portugal,portugal,Europe,Europe
+PW,Palau,palau,Oceania,Oceania
+PY,Paraguay,paraguay,Americas,Americas
 QA,Qatar,qatar,MENA,Asia
-ZZ,-Reserved AS-,reserved-as,,
 RE,Reunion,reunion,Sub Saharan Africa,Africa
 RO,Romania,romania,Europe,Europe
+RS,Serbia,serbia,Europe,Europe
 RU,Russian Federation,russia,Europe,Europe
 RW,Rwanda,rwanda,Sub Saharan Africa,Africa
-BL,Saint Barthelemy,saint-barthelemy,Americas,Americas
-KN,Saint Kitts and Nevis,saint-kitts-and-nevis,Caribbean,Americas
-LC,Saint Lucia,saint-lucia,Caribbean,Americas
-PM,Saint Pierre and Miquelon,saint-pierre,Americas,Americas
-WS,Samoa,samoa,Oceania,Oceania
-SM,San Marino,san-marino,Europe,Europe
-ST,Sao Tome and Principe,sao-tome-and-principe,Sub Saharan Africa,Africa
 SA,Saudi Arabia,saudi-arabia,MENA,Asia
-SN,Senegal,senegal,Sub Saharan Africa,Africa
-RS,Serbia,serbia,Europe,Europe
-SC,Seychelles,seychelles,Sub Saharan Africa,Africa
-SL,Sierra Leone,sierra-leone,Sub Saharan Africa,Africa
-SG,Singapore,singapore,Asia,Asia
-SK,Slovakia,slovakia,Europe,Europe
-SI,Slovenia,slovenia,Europe,Europe
 SB,Solomon Islands,solomon-islands,Oceania,Oceania
-SO,Somalia,somalia,MENA,Africa
-ZA,South Africa,south-africa,Sub Saharan Africa,Africa
-GS,South Georgia and South Sandwich Islands,south-georgia-and-south-sandwich-islands,Americas,Americas
-KR,South Korea,south-korea,Asia,Asia
-SS,South Sudan,south-sudan,MENA,Africa
-ES,Spain,spain,Europe,Europe
-LK,Sri Lanka,sri-lanka,Asia,Asia
-VC,St. Vincent & the Grenadines,st.-Vincent-and-the-Grenadines,Caribbean,
+SC,Seychelles,seychelles,Sub Saharan Africa,Africa
 SD,Sudan,sudan,MENA,Africa
-SR,Suriname,suriname,Americas,Americas
-SZ,Swaziland,swaziland,Sub Saharan Africa,Africa
 SE,Sweden,sweden,Europe,Europe
-CH,Switzerland,switzerland,Europe,Europe
+SG,Singapore,singapore,Asia,Asia
+SI,Slovenia,slovenia,Europe,Europe
+SK,Slovakia,slovakia,Europe,Europe
+SL,Sierra Leone,sierra-leone,Sub Saharan Africa,Africa
+SM,San Marino,san-marino,Europe,Europe
+SN,Senegal,senegal,Sub Saharan Africa,Africa
+SO,Somalia,somalia,MENA,Africa
+SR,Suriname,suriname,Americas,Americas
+SS,South Sudan,south-sudan,MENA,Africa
+ST,Sao Tome and Principe,sao-tome-and-principe,Sub Saharan Africa,Africa
+SV,El Salvador,el-salvador,Americas,Americas
+SX,Dutch Sint Maarten,sint-maarten,Americas,Americas
 SY,Syria,syria,MENA,Asia
-TW,Taiwan,taiwan,Asia,Asia
-TJ,Tajikistan,tajikistan,Asia,Asia
-TZ,Tanzania,tanzania,Sub Saharan Africa,Africa
-TH,Thailand,thailand,Asia,Asia
-TL,Timor-Leste,timor-Leste,Asia,Asia
-TG,Togo,togo,Sub Saharan Africa,Africa
-TK,Tokelau,tokelau,Oceania,Oceania
-TO,Tonga,tonga,Oceania,Oceania
+SZ,Swaziland,swaziland,Sub Saharan Africa,Africa
 T,total,Total,,
-TT,Trinidad and Tobago,trinidad-and-tobago,Caribbean,Americas
-TN,Tunisia,tunisia,MENA,Africa
-TR,Turkey,turkey,Asia,Asia
-TM,Turkmenistan,turkmenistan,Asia,Asia
 TC,Turks and Caicos Islands,turks-and-caicos-islands,Caribbean,Americas
+TD,Chad,chad,MENA,Africa
+TG,Togo,togo,Sub Saharan Africa,Africa
+TH,Thailand,thailand,Asia,Asia
+TJ,Tajikistan,tajikistan,Asia,Asia
+TK,Tokelau,tokelau,Oceania,Oceania
+TL,Timor-Leste,timor-Leste,Asia,Asia
+TM,Turkmenistan,turkmenistan,Asia,Asia
+TN,Tunisia,tunisia,MENA,Africa
+TO,Tonga,tonga,Oceania,Oceania
+TR,Turkey,turkey,Asia,Asia
+TT,Trinidad and Tobago,trinidad-and-tobago,Caribbean,Americas
 TV,Tuvalu,tuvalu,Oceania,Oceania
-UG,Uganda,uganda,Sub Saharan Africa,Africa
+TW,Taiwan,taiwan,Asia,Asia
+TZ,Tanzania,tanzania,Sub Saharan Africa,Africa
 UA,Ukraine,ukraine,Europe,Europe
-AE,United Arab Emirates,united-arab-emirates,MENA,Asia
-GB,United Kingdom,united-kingdom,Europe,Europe
-US,United States,united-states,Americas,Americas
-C,Unknown,unknown,,
-XY,Unknown XY,unknown-xy,,
-UY,Uruguay,uruguay,Americas,Americas
+UG,Uganda,uganda,Sub Saharan Africa,Africa
 UM,U.S. Outlying Islands,us-outlying-slands,Americas,Americas
+US,United States,united-states,Americas,Americas
+UY,Uruguay,uruguay,Americas,Americas
 UZ,Uzbekistan,uzbekistan,Asia,Asia
-VU,Vanuatu,vanuatu,Oceania,Oceania
 VA,Vatican City,vatican-city,Europe,Europe
+VC,St. Vincent & the Grenadines,st.-Vincent-and-the-Grenadines,Caribbean,
 VE,Venezuela,venezuela,Americas,Americas
-VN,Viet Nam,vietnam,Asia,Asia
 VG,Virgin Islands, British,virgin-islands-british,Caribbean,Americas
 VI,Virgin Islands, U.S.,virgin-islands-us,Caribbean,Americas
+VN,Viet Nam,vietnam,Asia,Asia
+VU,Vanuatu,vanuatu,Oceania,Oceania
 WF,Wallis and Futuna Islands,Wallis-and-futuna-islands,Territory of FR,Europe
+WS,Samoa,samoa,Oceania,Oceania
+XK,Kosovo,kosovo,Europe,Europe
+XY,Unknown XY,unknown-xy,,
 YE,Yemen,yemen,MENA,Asia
+YT,Mayotte,mayotte,Africa,Afcrica
+ZA,South Africa,south-africa,Sub Saharan Africa,Africa
 ZM,Zambia,zambia,Sub Saharan Africa,Africa
 ZW,Zimbabwe,zimbabwe,Sub Saharan Africa,Africa
+ZZ,-Reserved AS-,reserved-as,,
