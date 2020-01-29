@@ -1,4 +1,11 @@
 id,name,slug,region,continent
+SJ,Svalbard and Jan Mayen,,Europe,Europe
+CC,Cocos (Keeling) Islands,Oceania,Oceania
+BV,Bouvet Island,Americas,Americas
+EH,Western Sahara,North Africa,Africa
+CX,Christmas Island,Oceania,Oceania
+HM,Heard Island and McDonald Islands,,Oceania,Oceania
+SH,Saint Helena,Sub Saharan Africa,Africa
 AD,Andorra,andorra,Europe,Europe
 AE,United Arab Emirates,united-arab-emirates,MENA,Asia
 AF,Afghanistan,afghanistan,Asia,Asia
