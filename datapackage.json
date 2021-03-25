@@ -1,7 +1,7 @@
 {
   "name": "refdata-country",
   "title": "Reference data for countries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "resources": [
     {
       "name": "country",
@@ -13,7 +13,7 @@
           {
             "name": "id",
             "type": "string",
-            "description": "ISO 3166-1 alpha-2 code representatio for country"
+            "description": "ISO 3166-1 alpha-2 code representation for country"
           },
           {
             "name": "name",
